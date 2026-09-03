@@ -1,0 +1,23 @@
+{
+  "name": "software-dev-ob-marketplace",
+  "description": "Marketplace for the software-dev-ob Claude Code plugin.",
+  "metadata": {
+    "description": "通过 Obsidian 管理软件需求全生命周期的 Claude Code 插件市场源。"
+  },
+  "owner": {
+    "name": "hongzp27286"
+  },
+  "plugins": [
+    {
+      "name": "software-dev-ob-requirement",
+      "description": "Obsidian 知识库与软件需求全生命周期管理（init/新建/实现/流转/测试/上传/查询），所有路径从 config.json 读取不硬编码",
+      "version": "1.0.0",
+      "author": {
+        "name": "hongzp27286"
+      },
+      "source": ".",
+      "category": "productivity",
+      "homepage": "https://github.com/hongzp27286/software-dev-ob"
+    }
+  ]
+}

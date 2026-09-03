@@ -1,0 +1,13 @@
+# 本地运行配置（每仓库独立，init 时生成在当前工作目录，不进 git）
+.software-dev-ob.config.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/

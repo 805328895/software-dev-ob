@@ -1,0 +1,15 @@
+{
+  "name": "software-dev-ob-openclaw",
+  "version": "1.0.0",
+  "description": "Obsidian 知识库与软件需求全生命周期管理（OpenClaw 版）。8 个 ob-* skill + code-investigator 调研 skill + session-start hook，所有路径从 config.json 读取不硬编码。",
+  "author": {
+    "name": "hongzp27286"
+  },
+  "license": "MIT",
+  "keywords": [
+    "software-dev",
+    "requirement",
+    "knowledge-base",
+    "openclaw"
+  ]
+}

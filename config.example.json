@@ -1,0 +1,9 @@
+{
+  "_comment": "这是 config.json 的示例格式。实际 config.json 由 /ob-init 自动探测生成，无需手动编辑。此文件仅供了解字段含义。",
+  "cliPath": "/Applications/Obsidian.app/Contents/MacOS/obsidian-cli",
+  "vaultPath": "/Users/<用户名>/obsidian/obsidian",
+  "vaultName": "obsidian",
+  "kbDir": "<仓库名，如 my-project>",
+  "pmProjectCode": "",
+  "createdAt": "2026-08-31"
+}

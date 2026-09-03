@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo *)",
+      "Read(//Users/a1-6/.openclaw/**)",
+      "Bash(command -v openclaw)",
+      "Bash(command -v claw)",
+      "WebSearch",
+      "Bash(openclaw --version)",
+      "Bash(openclaw --help)",
+      "Bash(openclaw skill *)",
+      "Bash(openclaw plugin *)",
+      "Bash(openclaw agent *)",
+      "Bash(python3 -c ' *)",
+      "Bash(openclaw skills *)",
+      "Bash(openclaw plugins *)"
+    ]
+  }
+}

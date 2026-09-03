@@ -1,0 +1,17 @@
+{
+  "description": "Obsidian skill 启动提示：会话开始时展示当前知识库初始化状态与需求数。",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/session_start.py\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
