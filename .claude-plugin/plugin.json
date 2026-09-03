@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Obsidian 知识库与软件需求全生命周期管理（init/新建/实现/流转/测试/上传/查询），所有路径从 config.json 读取不硬编码",
   "author": {
-    "name": "hongzp27286"
+    "name": "805328895"
   },
   "license": "MIT",
   "keywords": [
